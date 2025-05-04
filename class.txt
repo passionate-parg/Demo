@@ -1,0 +1,2 @@
+clone we use to clone repository on our local machine 
+git clone <- some link ->
